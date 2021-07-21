@@ -1,0 +1,12 @@
+{
+  "name": "p-npm-package",
+  "version": "0.0.1",
+  "repository": "git@yota-hada-GitHub:yota-hada/p-npm-package.git",
+  "author": "yota-hada <hadayota33@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ]
+}
