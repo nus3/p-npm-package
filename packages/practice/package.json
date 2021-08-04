@@ -1,0 +1,31 @@
+{
+  "name": "@nus3/practice",
+  "version": "1.0.0",
+  "description": "This is a simple npm package for practice",
+  "author": "yota-hada <hadayota33@gmail.com>",
+  "homepage": "https://github.com/yota-hada/p-npm-package/tree/main/packages/practice",
+  "bugs": "https://github.com/yota-hada/p-npm-package/issues",
+  "license": "MIT",
+  "main": "lib/practice.js",
+  "engines": {
+    "node": ">=14"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git",
+    "directory": "packages/practice"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

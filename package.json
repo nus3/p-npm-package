@@ -9,6 +9,9 @@
     "packages/*",
     "examples/*"
   ],
+  "scripts": {
+    "create-pkg": "yarn lerna create"
+  },
   "devDependencies": {
     "lerna": "4.0.0"
   }
