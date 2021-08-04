@@ -1,0 +1,26 @@
+{
+  "name": "@nus3/p-component",
+  "version": "1.0.0",
+  "description": "This is a simple react component package for practice",
+  "author": "yota-hada <hadayota33@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/p-component.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.yarnpkg.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
