@@ -13,14 +13,12 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.yarnpkg.com"
-  },
   "repository": {
     "type": "git",
     "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "78e0323fdd8103b070785d0dff0261bda142e35a"
 }
