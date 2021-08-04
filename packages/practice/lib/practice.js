@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = pPackage;
 
 function pPackage() {
-    // TODO
+  console.log("Hello nus3 world!");
 }
