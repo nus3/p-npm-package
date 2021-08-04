@@ -1,6 +1,6 @@
 {
   "name": "@nus3/practice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple npm package for practice",
   "author": "yota-hada <hadayota33@gmail.com>",
   "homepage": "https://github.com/yota-hada/p-npm-package/tree/main/packages/practice",
