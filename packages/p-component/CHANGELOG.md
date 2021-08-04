@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component@1.1.0...@nus3/p-component@1.1.1) (2021-08-04)
+
+
+### Bug Fixes
+
+* **p-component:** Remove publishConfig ([f6e065d](https://yota-hada-github/yota-hada/p-npm-package/commit/f6e065df8977834bab2aa440b7d8b3d2fa6a36e3))
+
+
+
+
+
 # 1.1.0 (2021-08-04)
 
 
