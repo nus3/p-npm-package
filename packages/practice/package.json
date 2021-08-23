@@ -20,7 +20,7 @@
     "directory": "packages/practice"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1",
+    "test": "jest",
     "build": "tsc --p tsconfig.json"
   },
   "publishConfig": {

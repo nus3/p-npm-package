@@ -13,6 +13,7 @@ packages/*/build
 packages/*/*.d.ts
 packages/*/*.js
 !packages/*/.eslintrc.js
+!packages/*/jest.config.js
 
 # misc
 .DS_Store
