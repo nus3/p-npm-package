@@ -6,24 +6,19 @@
   "homepage": "https://github.com/yota-hada/p-npm-package/tree/main/packages/practice",
   "bugs": "https://github.com/yota-hada/p-npm-package/issues",
   "license": "MIT",
-  "main": "lib/practice.js",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "engines": {
     "node": ">=14"
   },
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
   "repository": {
     "type": "git",
     "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git",
     "directory": "packages/practice"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "tsc --p tsconfig.json"
   },
   "publishConfig": {
     "access": "public"
