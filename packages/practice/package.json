@@ -21,7 +21,8 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "tsc --p tsconfig.json"
+    "build": "tsc --p tsconfig.json",
+    "lint": "eslint src --ext ts --ext tsx --max-warnings 0"
   },
   "publishConfig": {
     "access": "public"

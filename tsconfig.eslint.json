@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {"noEmit": true},
+  "include": [
+    ".eslintrc.js",
+    "./packages/**/*.ts",
+    "./packages/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules",
+    "./packages/*/build/**/*"
+  ]
+}
