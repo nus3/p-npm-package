@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/practice@1.3.0...@nus3/practice@1.4.0) (2021-08-23)
+
+
+### Features
+
+* **practice:** Add cli script. ([f166893](https://yota-hada-github/yota-hada/p-npm-package/commit/f166893ce19f9dfc856c215a208b3f35f1681875))
+
+
+
+
+
 # [1.3.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/practice@1.2.0...@nus3/practice@1.3.0) (2021-08-23)
 
 
