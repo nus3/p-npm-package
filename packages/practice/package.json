@@ -14,6 +14,9 @@
   "engines": {
     "node": ">=14"
   },
+  "bin": {
+    "hello-world": "build/script.js"
+  },
   "repository": {
     "type": "git",
     "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git",
