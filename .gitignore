@@ -1,19 +1,24 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
+node_modules
 /.pnp
 .pnp.js
 
 # testing
 /coverage
 
-# production
-/build
+# packages
+packages/*/build
+packages/*/*.d.ts
+packages/*/*.js
+!packages/*/.eslintrc.js
 
 # misc
 .DS_Store
 *.pem
+
+*.tsbuildinfo
 
 # debug
 npm-debug.log*
