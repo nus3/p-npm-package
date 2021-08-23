@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/practice@1.1.2...@nus3/practice@1.2.0) (2021-08-23)
+
+
+### Features
+
+* **practice:** Add helloWorld method. ([a2ad5d2](https://yota-hada-github/yota-hada/p-npm-package/commit/a2ad5d2fbdd5157612272eb5361341f18d969805))
+
+
+
+
+
 ## [1.1.2](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/practice@1.1.1...@nus3/practice@1.1.2) (2021-08-04)
 
 
