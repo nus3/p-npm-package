@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/practice@1.2.0...@nus3/practice@1.3.0) (2021-08-23)
+
+
+### Bug Fixes
+
+* **practice:** Add files property in package.json ([08064cf](https://yota-hada-github/yota-hada/p-npm-package/commit/08064cf5127408b0c33390b964de4da03224d149))
+
+
+### Features
+
+* **practice:** Add linter and formatter ([1e38eac](https://yota-hada-github/yota-hada/p-npm-package/commit/1e38eac83045626adb6488180ade3e5d09fe16d0))
+
+
+
+
+
 # [1.2.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/practice@1.1.2...@nus3/practice@1.2.0) (2021-08-23)
 
 
