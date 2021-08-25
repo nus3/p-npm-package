@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.3](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.2...@nus3/p-component2@1.1.3) (2021-08-25)
+
+
+### Bug Fixes
+
+* **p-component:** Not use tailwindcss ([b771ede](https://yota-hada-github/yota-hada/p-npm-package/commit/b771edeedcc89656017910a5234f34da352d17ea))
+
+
+
+
+
 ## [1.1.2](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.1...@nus3/p-component2@1.1.2) (2021-08-25)
 
 
