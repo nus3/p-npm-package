@@ -1,0 +1,35 @@
+{
+  "name": "@nus3/p-component",
+  "version": "0.0.0",
+  "description": "This is a simple react component for practice",
+  "author": "yota-hada <hadayota33@gmail.com>",
+  "homepage": "https://github.com/yota-hada/p-npm-package/tree/main/packages/p-component",
+  "bugs": "https://github.com/yota-hada/p-npm-package/issues",
+  "license": "MIT",
+  "main": "./dist/p-component.umd.js",
+  "module": "./dist/p-component.es.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build && tsc -p ./tsconfig.build.json"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/p-component.es.js",
+      "require": "./dist/p-component.umd.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git",
+    "directory": "packages/practice"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
