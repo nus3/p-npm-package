@@ -1,5 +1,3 @@
 .wrap {
-  padding: 8px;
-  background-color: blueviolet;
-  color: white;
+  @apply inline-block bg-indigo-500 text-white p-2 rounded-sm;
 }
