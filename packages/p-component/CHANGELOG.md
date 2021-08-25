@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.4](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.3...@nus3/p-component2@1.1.4) (2021-08-25)
+
+
+### Bug Fixes
+
+* **p-component:** Add vite-react-jsx ([ddcae61](https://yota-hada-github/yota-hada/p-npm-package/commit/ddcae616c4f6226498c0b0c22185174305d17d3b))
+
+
+
+
+
 ## [1.1.3](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.2...@nus3/p-component2@1.1.3) (2021-08-25)
 
 
