@@ -18,6 +18,10 @@
   "engines": {
     "node": ">=14"
   },
+  "peerDependencies": {
+    "react": "^16.14 || ^17",
+    "react-dom": "^16.14 || ^17"
+  },
   "exports": {
     ".": {
       "import": "./dist/p-component.es.js",
