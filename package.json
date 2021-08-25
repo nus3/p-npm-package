@@ -13,6 +13,7 @@
     "create-pkg": "lerna create",
     "bootstrap": "lerna bootstrap",
     "versionup": "lerna version --conventional-commits",
+    "versionup:major": "lerna version major --conventional-commits",
     "release": "lerna publish from-package",
     "release:canary": "lerna publish --canary"
   },
