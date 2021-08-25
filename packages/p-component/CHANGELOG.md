@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.0...@nus3/p-component2@1.1.1) (2021-08-25)
+
+
+### Bug Fixes
+
+* **p-component:** Add type property in package.json ([eee9a8e](https://yota-hada-github/yota-hada/p-npm-package/commit/eee9a8e256ac7ccba3ed1cec1e87cd1f10f2a9a6))
+
+
+
+
+
 # 1.1.0 (2021-08-25)
 
 
