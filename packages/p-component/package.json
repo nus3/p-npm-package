@@ -8,6 +8,7 @@
   "license": "MIT",
   "main": "./dist/p-component.umd.js",
   "module": "./dist/p-component.es.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "dev": "vite",
     "build": "vite build && tsc -p ./tsconfig.build.json"
