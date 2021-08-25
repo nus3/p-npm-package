@@ -2,6 +2,7 @@
   "files": [],
   "include": [],
   "references": [
-    {"path": "./packages/practice"}
+    {"path": "./packages/practice"},
+    {"path": "./packages/p-component"},
   ]
 }
