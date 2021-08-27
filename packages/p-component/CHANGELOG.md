@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.4...@nus3/p-component2@1.2.0) (2021-08-27)
+
+
+### Bug Fixes
+
+* **p-component:** Fix repository directory in pacakge.json ([6016fb9](https://yota-hada-github/yota-hada/p-npm-package/commit/6016fb9a79081882210f63aa22a64114aa4f8f97))
+
+
+### Features
+
+* **p-component:** Add hello world method ([12bed14](https://yota-hada-github/yota-hada/p-npm-package/commit/12bed1451b16aaa9d6ffdb95fb2b4a42d4b2b225))
+
+
+
+
+
 ## [1.1.4](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.1.3...@nus3/p-component2@1.1.4) (2021-08-25)
 
 
