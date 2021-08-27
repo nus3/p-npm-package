@@ -1,6 +1,6 @@
 {
   "name": "@nus3/p-component2",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "This is a simple react component for practice",
   "author": "yota-hada <hadayota33@gmail.com>",
   "homepage": "https://github.com/yota-hada/p-npm-package/tree/main/packages/p-component",
@@ -39,6 +39,6 @@
     "access": "public"
   },
   "dependencies": {
-    "@nus3/p-method": "1.0.0"
+    "@nus3/p-method": "^1.0.1"
   }
 }

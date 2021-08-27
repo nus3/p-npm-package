@@ -1,6 +1,6 @@
 {
   "name": "@nus3/p-method",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple npm package that use vite for practice",
   "author": "yota-hada <hadayota33@gmail.com>",
   "homepage": "https://github.com/yota-hada/p-npm-package/tree/main/packages/p-method",
