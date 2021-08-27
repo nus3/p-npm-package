@@ -32,7 +32,7 @@
   "repository": {
     "type": "git",
     "url": "git@yota-hada-GitHub:yota-hada/p-npm-package.git",
-    "directory": "packages/practice"
+    "directory": "packages/p-component"
   },
   "publishConfig": {
     "access": "public"
