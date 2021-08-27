@@ -17,4 +17,9 @@
     "composite": true,
   },
   "include": ["./src"],
+  "references": [
+    {
+      "path": "../practice"
+    },
+  ]
 }

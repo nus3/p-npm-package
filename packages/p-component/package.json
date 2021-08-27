@@ -36,5 +36,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@nus3/practice": "1.4.1"
   }
 }
