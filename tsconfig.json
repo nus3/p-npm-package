@@ -4,5 +4,6 @@
   "references": [
     {"path": "./packages/practice"},
     {"path": "./packages/p-component"},
+    {"path": "./packages/p-method"},
   ]
 }

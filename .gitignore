@@ -14,6 +14,7 @@ packages/*/*.d.ts
 packages/*/*.js
 !packages/*/.eslintrc.js
 !packages/*/jest.config.js
+!packages/*/jest.setup.js
 !packages/*/postcss.config.js
 !packages/*/tailwind.config.js
 
