@@ -19,7 +19,7 @@
   "include": ["./src"],
   "references": [
     {
-      "path": "../practice"
+      "path": "../p-method"
     },
   ]
 }
