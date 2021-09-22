@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.2.1...@nus3/p-component2@1.3.0) (2021-09-22)
+
+
+### Features
+
+* **p-component:** Add ci ([104bf82](https://yota-hada-github/yota-hada/p-npm-package/commit/104bf82bbd3a5db5d8ea800bca3bb1f95f9d645f))
+
+
+
+
+
 ## [1.2.1](https://yota-hada-github/yota-hada/p-npm-package/compare/@nus3/p-component2@1.2.0...@nus3/p-component2@1.2.1) (2021-08-27)
 
 **Note:** Version bump only for package @nus3/p-component2
