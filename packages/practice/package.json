@@ -23,9 +23,10 @@
     "directory": "packages/practice"
   },
   "scripts": {
-    "test": "jest",
     "build": "tsc --p tsconfig.json",
-    "lint": "eslint src --ext ts --ext tsx --max-warnings 0"
+    "lint": "eslint src --ext ts --ext tsx --max-warnings 0",
+    "test": "jest",
+    "type-check": "tsc --pretty --noEmit"
   },
   "publishConfig": {
     "access": "public"
