@@ -16,7 +16,11 @@
     "versionup:major": "lerna version major --conventional-commits",
     "release": "lerna publish from-package",
     "release:canary": "lerna publish --canary",
-    "setup": "yarn --frozen-lockfile --ignore-optional"
+    "setup": "yarn --frozen-lockfile --ignore-optional",
+    "build": "lerna run build --parallel",
+    "lint": "lerna run lint --parallel",
+    "test": "lerna run test --stream",
+    "type-check": "lerna run type-check --parallel"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.14.1",
