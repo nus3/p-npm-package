@@ -12,7 +12,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && tsc -p ./tsconfig.build.json",
-    "test": "jest"
+    "lint": "eslint src --ext ts --ext tsx --max-warnings 0",
+    "test": "jest",
+    "type-check": "tsc --pretty --noEmit"
   },
   "files": [
     "dist"
